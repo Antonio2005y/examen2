@@ -1,0 +1,8 @@
+*{
+    transition: 2s ease all;
+}
+body{
+    background: rgb(1,0,36);
+    color: rgb(0, 0, 0);
+background: linear-gradient(90deg, rgb(5, 124, 179) 0%, rgb(0, 0, 0) 100%, rgb(0, 0, 0) 100%);
+}
